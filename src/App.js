@@ -12,7 +12,7 @@ function App(){
     script.onload = () => {
       window.vapiSDK.run({
         apiKey: "63aeff52-a75a-47c5-94df-1dfa01942f4a",
-        assistant: "acf6d71d-e63a-465c-ba07-1a26691b620b",
+        assistant: "47a9a5be-8db4-4683-a808-0ad9e1574a4b",
         config: buttonConfig,
       });
     };
